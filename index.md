@@ -16,6 +16,8 @@ The sister site [ញ៉ាំបាយ.com](http://ញ៉ាំបាយ.com/) i
 
 That's the correct encoding.
 
+![Different encodings](https://marc.durdin.net/wp-content/uploads/2017/03/nham-three-times.png)
+
 # ញុំាបាយ.com vs ញ៉ាំបាយ.com
 
 Why is this a problem? If you are viewing this site on a Mac or iOS device, you'll see a dotted circle in the middle of the name of this site. However, on current Windows and Android devices (by far the majority in Cambodia), you cannot see any difference between these names. And both sites have certificates. What if one was a bank?
